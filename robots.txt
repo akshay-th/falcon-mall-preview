@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://falconmall.in/sitemap-index.xml
